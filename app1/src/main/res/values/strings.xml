@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App1</string>
+    <string name="date_label">Date:</string>
+    <string name="date_value">[date]</string>
+    <string name="news_label">News:</string>
+    <string name="news_value">[news]</string>
+        <string name="action_refresh">REFRESH</string>
+
+</resources>
